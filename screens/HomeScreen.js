@@ -34,7 +34,7 @@ export default function HomeScreen() {
             Change any of the text, save the file, and your app will automatically reload.
           </Text>
           <Text style={styles.getStartedText}>
-           Very nice
+           Very nice a
           </Text>
         </View>
 
