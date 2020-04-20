@@ -30,7 +30,11 @@ export default function HomeScreen() {
           </View>
 
           <Text style={styles.getStartedText}>
+            OK I'M HERE
             Change any of the text, save the file, and your app will automatically reload.
+          </Text>
+          <Text style={styles.getStartedText}>
+           Very nice
           </Text>
         </View>
 
